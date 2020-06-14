@@ -4,3 +4,8 @@
 
 Ex3_3
 Exception handling and syntax
+
+Ex4_6
+-Script Prompts the user for hours-pay details to calculate overtime
+--Exception handles non numerics
+-Learning how to write and invoke user defined functions
