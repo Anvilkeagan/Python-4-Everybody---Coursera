@@ -2,10 +2,16 @@
 ### Key Learning By exercise ###
 
 
-Ex3_3
+### Ex3_3
 Exception handling and syntax
 
-Ex4_6
+### Ex4_6
 -Script Prompts the user for hours-pay details to calculate overtime
 --Exception handles non numerics
 -Learning how to write and invoke user defined functions
+
+### Ex5_2
+-Script prompts the user to enter an integer indefinitely until they exit the loop with "done"
+-At which point the minimum, maximum of the number range is provided
+
+Key learnings: Handling of different data types for comparisons and exiting indefinite loops
