@@ -15,3 +15,9 @@ Exception handling and syntax
 -At which point the minimum, maximum of the number range is provided
 
 Key learnings: Handling of different data types for comparisons and exiting indefinite loops
+
+### Ex6_5
+- Exercise is to strip the last number from the text, convert to float and print
+- Slicing
+- String handling
+- Inelegant solution 
