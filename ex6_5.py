@@ -5,11 +5,19 @@ text = "X-DSPAM-Confidence:    0.8475";
 
 #finding the start of the number
 #I know this isn't a great way of doing this
-pos=text.find('0')
+## first version
+#pos=text.find('0')
+
+##second version
+pos=text.find(':')
 
 #slicing
-numstr=text[pos:]
+numstr=text[pos+1:]
 
 #type conversion
-num=float(numstr)
-print(num)
+#stripping spaces
+try:
+    num=float(numstr.strip())
+    print(num)
+except:
+    print("couldnt convert to float")
