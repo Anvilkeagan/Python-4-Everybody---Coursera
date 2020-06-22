@@ -21,3 +21,23 @@ Key learnings: Handling of different data types for comparisons and exiting inde
 - Slicing
 - String handling
 - Inelegant solution 
+
+
+### Ex7_1
+- Exercise is to start working with i/o
+- opening a socket
+- reading to a variable
+- manipulting
+- printing
+- also exception handling
+
+### Ex7_2
+- Exercise is to start working with i/o
+- opening a socket
+- reading to a variable
+- manipulting
+- - running totals
+- - performing operations on specific lines only
+- - Stripping number values 
+- printing
+- also exception handling

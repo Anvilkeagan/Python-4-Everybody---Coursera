@@ -16,7 +16,8 @@ except:
     print("Couldnt open handle")
     quit()
 
-# read into a variable and apply upper method before printing    
+# read into a variable and apply upper method before printing
+#needed to add strip method to remove double lining that print +/n adds
 temp=fhandle.read()
-tempUpper=temp.upper()
+tempUpper=temp.upper().strip()
 print(tempUpper)
