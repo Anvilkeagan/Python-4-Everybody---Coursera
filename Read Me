@@ -41,3 +41,8 @@ Key learnings: Handling of different data types for comparisons and exiting inde
 - - Stripping number values 
 - printing
 - also exception handling
+
+### Ex8_4
+- Exercise build a list of unique words from a text file
+- Key learning here was to use the right function. (split Vs strip)
+- Additionally, I got the right output from the first try but I forgot that alphanumerically 'Ba' is valid
